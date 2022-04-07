@@ -11,5 +11,6 @@ hello atguigu hello  git!
 hello atguigu hello  git!
 hello atguigu hello  git!
 hello atguigu hello  git! master commit
+hello atguigu hello  git! hot-fix test
 
 
